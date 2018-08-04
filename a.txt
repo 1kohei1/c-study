@@ -1,8 +1,2 @@
-IP-TTL=64
-MTU=1500
-device=ens161
-vmac=02:00:00:00:00:01
-vip=192.168.0.100
-vmask=255.255.255.0
-gateway=192.168.0.254
+IP-TTL=64MTU=1500device=ens161vmac=02:00:00:00:00:01vip=192.168.0.100vmask=255.255.255.0gateway=192.168.0.254
 
